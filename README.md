@@ -1,2 +1,3 @@
-# YandexMapsMobileWrapper
-Wrapper for YandexMapsMobile cocoapod
+# YandexMapMobileWrapper
+
+A description of this package.
